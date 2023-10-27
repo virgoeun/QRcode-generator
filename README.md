@@ -11,7 +11,8 @@ https://github.com/virgoeun/QRcode-generator/assets/17591998/aa292e02-184b-4e09-
 0. Pure HTML, CSS & Javascript 
 1. QR Code API with Query Parameter
 2. Simple DOM Manipulation for Query Parameter(Text/URL Input)
-3. Error Handling with 1000 milliesecond SetTimeout() and CSS Animation for visual que in case there is no input 
+3. Error Handling with 1000 milliesecond SetTimeout() and CSS Animation for visual que in case there is no input
+4. Responsive design to both Web page & Mobile
 
 <br>
 
