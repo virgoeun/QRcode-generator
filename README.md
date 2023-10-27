@@ -3,7 +3,7 @@
 
 https://github.com/virgoeun/QRcode-generator/assets/17591998/aa292e02-184b-4e09-b2e4-329472a8bf4f
 
-[QR Code Generator Link]()
+[QR Code Generator Link](https://virgoeun.github.io/QRcode-generator/)
 
 <br>
 
